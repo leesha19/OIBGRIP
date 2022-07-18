@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/* top section */
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+.top-container h5{
+    font-size: 20px;
+}
+.logo{
+    height: 60px;
+}
+nav a{
+    float: right;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #001D6E;
+    font-weight: 600;
+    margin: 5px;
+}
+nav a:hover{
+    background-color: aliceblue;
+    border-radius: 5px;
+    
+}
+.top-container{
+   
+    padding: 80px;
+   
+}
+.top{
+    background-color: #C4DDFF;
+}
+
+/* middle  section */
+.middle{
+    background-color: #7FB5FF;
+    padding: 50px;
+}
+
+.tittle {
+    font-size: 50px;
+    text-align: center;
+    padding: 30px;
+    margin: 0;
+    color: #001D6E;
+    
+}
+.tittle1{
+    font-size: 20px;
+    text-align: center;
+}
+
+.hunger-img{
+ width: 15em;
+ border-radius: 5px;
+}
+.aid-img{
+    width: 55%;
+    border-radius: 5px;
+}
+
+.edu-img{
+    width: 15em;
+    border-radius: 5px;
+}
+td{
+    text-align: center;
+}
+h3{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
+    color: #001D6E;
+}
+h5{
+    font-size: 15px;
+}
+
+table{
+    padding-top: 7em;
+}
+
+
+
+
+
+/* bottom section */
+.bottom{
+    background-color: #001D6E;
+  
+}
+.bottom-container{
+   text-align: center;
+    padding: 30px;
+}
+.bottom-container h2{
+    font-size: 50px;
+    color: rgb(13, 195, 232);
+}
+.bottom-container h5{
+    font-size: 30px;
+    color: #C4DDFF;
+    padding: 20px;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+}
